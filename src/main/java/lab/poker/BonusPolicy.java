@@ -8,6 +8,6 @@ public class BonusPolicy {
         boolean a = evaluator.isStraight(hand);
         boolean b = evaluator.isFlush(hand);
         boolean c = evaluator.isFullHouse(hand);
-        return a && (b || c);
+        return (a && b) || c;
     }
 }

@@ -1,9 +1,9 @@
 row,A,B,C,P_expected,feasible_hand,example_hand
-r1,F,F,F,,,
-r2,F,F,T,,,
-r3,F,T,F,,,
-r4,F,T,T,,,
-r5,T,F,F,,,
-r6,T,F,T,,,
-r7,T,T,F,,,
-r8,T,T,T,,,
+r1,F,F,F,F,feasible,2C 5D 8H JS KC
+r2,F,F,T,T,feasible,7C 7D 7H 9S 9C
+r3,F,T,F,F,feasible,2H 5H 8H JH KH
+r4,F,T,T,T,infeasible,N/A
+r5,T,F,F,F,feasible,6C 2D 5H 3S 4C
+r6,T,F,T,T,infeasible,N/A
+r7,T,T,F,T,feasible,2H 3H 4H 5H 6H
+r8,T,T,T,T,infeasible,N/A
