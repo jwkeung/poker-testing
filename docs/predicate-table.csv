@@ -1,0 +1,9 @@
+row,A,B,C,P_expected,feasible_hand,example_hand
+r1,F,F,F,,,
+r2,F,F,T,,,
+r3,F,T,F,,,
+r4,F,T,T,,,
+r5,T,F,F,,,
+r6,T,F,T,,,
+r7,T,T,F,,,
+r8,T,T,T,,,

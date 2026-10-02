@@ -1,0 +1,9 @@
+target/
+.vscode/
+.idea/
+*.class
+*.log
+opencode.json
+opencode.jsonc
+.env
+.env.*
